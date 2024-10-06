@@ -63,6 +63,7 @@ Note:
 - We may implement any feedback or suggestions we receive, without compensation or credits given.
 - We may collect certain personal information from users (ie. email address).
 - The Application, its contents, and trademarks are the Company's exclusive intellectual property.
+- The Application sends code to OpenAI servers for the purpose of generating documentation. The code is transmitted securely, ensuring compliance with privacy regulations and legal standards. While the Company ensure encrypted communication and temporary processing, any further use of the code by OpenAI, including for training or other purposes, is beyond the Company's control and responsibility. The Company recommends reviewing OpenAI's policies for additional details on how they may handle submitted data.
 
 
 
