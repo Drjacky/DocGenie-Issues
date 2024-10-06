@@ -1,5 +1,8 @@
 # DocGenie-Issues
 
+[![Version](https://img.shields.io/jetbrains/plugin/v/23263-avocado.svg)](https://plugins.jetbrains.com/plugin/23263-avocado)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/23263-avocado.svg)](https://plugins.jetbrains.com/plugin/23263-avocado)
+
 <p align="center">
   <img width="300px" src="pluginIcon.svg" />
 </p>
