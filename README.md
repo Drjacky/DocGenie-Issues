@@ -1,7 +1,7 @@
 # DocGenie-Issues
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/23263-avocado.svg)](https://plugins.jetbrains.com/plugin/23263-avocado)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/23263-avocado.svg)](https://plugins.jetbrains.com/plugin/23263-avocado)
+[![Version](https://img.shields.io/jetbrains/plugin/v/25496-docgenie.svg)](https://plugins.jetbrains.com/plugin/25496-docgenie)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/25496-docgenie.svg)](https://plugins.jetbrains.com/plugin/25496-docgenie)
 
 <p align="center">
   <img width="300px" src="pluginIcon.svg" />
